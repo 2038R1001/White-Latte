@@ -1,0 +1,26 @@
+
+.header-logo{
+    font-size: 30px;
+    padding: 10px;
+    background-color: beige;
+    text-align: center;
+  }
+
+li{
+  font-size: 20px;
+  font-style: oblique;
+  float: left;
+  list-style: none;
+  background-color: aquamarine;
+  
+  padding: 15px;
+}
+textarea:hover{
+  background-color:red;
+  margin:0 auto;
+
+}
+.latte-main{
+  width: 500px;
+
+}
